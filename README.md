@@ -1,5 +1,5 @@
-# mern-crud
-Sample CRUD operation using MERN stack
+# MERN - CRUD
+Sample CRUD Application using MERN ( MongoDB, ExpressJS, ReactJS, NodeJS ) stack.
 
 
 ![Application Screenshot](/App_screenshot.png)
